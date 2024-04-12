@@ -1,4 +1,4 @@
 # KnowIT
-## Uppgift 4
-Testa uppdatera ReadMe filen via hemsidan. Ange ditt namn under titeln **Namn** och utför sedan en commit till main via hemsidan för att dela din filändring med resterande användare av detta repo.
+## Uppgift 2
+Testa ladda ner repot PaulineLittbrand/KnowIT lokalt på din dator (ej klona). Att ladda ner ett repo kan vara ett praktiskt sätt att läsa och gå igenom kod och dokumentation när man inte vill utföra några ändringar.
 ### Namn
